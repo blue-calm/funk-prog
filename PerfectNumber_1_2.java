@@ -1,8 +1,8 @@
 //Laboratorijas darbs 1-2
 package imperative;
-	import java.util.*;
-	import java.util.stream.Collectors;
-	import java.util.stream.IntStream;
+import java.util.*;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
 public class PerfectNumber_1_2 {
 
