@@ -1,3 +1,4 @@
+//Laboratorijas darbs 1-1
 package imperative;
 import java.util.Scanner;
 import java.util.*;
